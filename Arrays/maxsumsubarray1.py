@@ -1,3 +1,4 @@
+# max sum of subarrays using (Brute force )algorithms.
 arr=[2,4,6,8,10]
 maxsum=0
 for i in range(len(arr)):   
